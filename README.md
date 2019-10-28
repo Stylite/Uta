@@ -6,11 +6,17 @@ A simple Discord webhook wrapper written in Scala
 
 Add it to your build.sbt
 
+```
+resolvers += "jitpack" at "https://jitpack.io"
+libraryDependencies ++= Seq(
+  "com.github.stylite" % "uta" % "33cb1a48a5"
+)
+```
 
 
 ## Usage
 
-```$scala
+```scala
 import kaoru.Uta
 
 object Example extends App {
