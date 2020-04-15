@@ -28,3 +28,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 [ISC](https://choosealicense.com/licenses/isc/)
+
+
+# Special Notes
+I am a pansexual transgender furry. Please don't use this library if you're easily offended or not into equality for all.
